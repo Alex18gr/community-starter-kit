@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This is a project about the community starter kit project.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Creating a Repo
+- Configure the repo
+- Configure the Probot
 
 ## Getting started
 
